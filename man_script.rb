@@ -1,3 +1,5 @@
+require 'pry'
+
 @cmd_arr = ['pwd', 'ls', 'rm']
 
 def main_menu
